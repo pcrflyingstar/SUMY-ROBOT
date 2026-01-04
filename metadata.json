@@ -1,0 +1,7 @@
+{
+  "name": "SUMY ROBOT",
+  "description": "Voice-activated virtual robot controller using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
